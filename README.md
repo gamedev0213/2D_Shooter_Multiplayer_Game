@@ -6,7 +6,7 @@ It a simple 2D Shooter game where player LogIn with the name and then join the l
 
 Using MVC for structuring the verticals in the game.
 
-New Things to Add:-
+New Things to Add:
 - Auto-Assign Teams
 - Score System
 - Multiple RoomList
